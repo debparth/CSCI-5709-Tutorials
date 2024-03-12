@@ -1,3 +1,4 @@
-serverless-wsgi
-serverless-http
 Flask
+Frozen-Flask
+itsdangerous
+Werkzeug

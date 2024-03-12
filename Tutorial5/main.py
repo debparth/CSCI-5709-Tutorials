@@ -1,7 +1,7 @@
-from functions.app import app
-from serverless_wsgi import handle_request
+from flask_frozen import Freezer
+from app import app
 
+freezer = Freezer(app)
 
-
-def handler(event, context):
-    return handle_request(app, event, context)
+if __name__ == '__main__':
+    freezer.freeze()
