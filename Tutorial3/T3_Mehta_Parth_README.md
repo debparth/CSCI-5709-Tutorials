@@ -26,8 +26,11 @@ Welcome to the official course repository for CSCI 5709. This README provides or
       - [Individual Repository](https://git.cs.dal.ca/mehta1/csci-5709-tutorials/-/tree/main/Tutorial3?ref_type=heads)
       - [Deployed Application on Netlify](https://tutorial-3-parth-mehta-b00931931.netlify.app/)
       - **Built With:**
-        - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
-        - [Material-UI](https://mui.com/) - A popular React UI framework.
+        - [React](https://reactjs.org/) - Used for building the frontend interface.
+        - [Material-UI](https://mui.com/) - For designing the UI components.
+        - [Formik](https://formik.org/) - For building and validating forms.
+        - [Yup](https://github.com/jquense/yup) - For object schema validation.
+
 
 ### Assignments
 
