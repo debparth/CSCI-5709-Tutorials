@@ -1,0 +1,3 @@
+serverless-wsgi
+serverless-http
+Flask
